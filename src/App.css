@@ -37,6 +37,12 @@
   }
 }
 
+#home p{
+  width: 300px;
+  text-align: center;
+  margin: 50px auto;
+}
+
 #login-btn{
   padding-left: 2.5rem; 
   padding-right: 2.5rem;
