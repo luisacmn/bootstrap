@@ -37,12 +37,12 @@
   }
 }
 
-#home p{
+
+#home p {
   width: 300px;
   text-align: center;
   margin: 50px auto;
 }
-
 
 #footer{
   background-color: rgb(240, 240, 240);
