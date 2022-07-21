@@ -6,6 +6,7 @@ import About from "./pages/About"
 import Login from './pages/Login';
 import Form from "./pages/Form";
 import Crud from './pages/Crud';
+import Register from './pages/Register';
 import Footer from './components/Footer';
 
 
@@ -20,6 +21,7 @@ function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/form" element={<Form />} />
           <Route path="/crud" element={<Crud />} />
+          <Route path="/register" element={<Register />}/>
         </Routes>
         <Footer/>
       </BrowserRouter>
